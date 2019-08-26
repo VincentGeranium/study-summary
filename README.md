@@ -7,4 +7,5 @@
 # 목차
 
 - [190813 - DeadLock](./summary/190813-DeadLock.markdown)
+- [190826 - Component](./summary/190826-it-terms-summary.md)
 
