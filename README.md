@@ -8,4 +8,6 @@
 
 - [190813 - DeadLock](./summary/190813-DeadLock.markdown)
 - [190826 - Component](./summary/190826-it-terms-summary.md)
+- [190826 - Module](./summary/190826-it-terms-summary-2.md)
+- [190828 - Complier and Interpreter](./summary/2019-08-28-interpreter-and-compiler.md)
 
